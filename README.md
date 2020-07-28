@@ -2,4 +2,4 @@
 
 This repository contains solutions of Hackerrank-Problem Solving Problems.
 
-My Hackerrank Profile: https://www.hackerrank.com/rupaldas2001
+My Hackerrank Profile: https://www.hackerrank.com/dasrupal01
